@@ -1,1 +1,1 @@
-# css-test
+A short exercise to practice CSS fundamentals using the external method, internal method, and the inline method.
